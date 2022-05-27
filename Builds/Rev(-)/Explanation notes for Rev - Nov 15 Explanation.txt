@@ -1,0 +1,3 @@
+Kickback from ITech board house, that items on mechanical layer 15 is on "all layers"  see email chain around Nov 11, Nov 12 with Vince
+
+I left mechanical layer 15 out of the mix, re-exported gerbers, and send along.  

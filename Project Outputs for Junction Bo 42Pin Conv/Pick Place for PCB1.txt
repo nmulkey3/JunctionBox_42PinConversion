@@ -1,0 +1,58 @@
+Altium Designer Pick and Place Locations
+C:\Repository\ASD_PCBA_Designs\JunctionBox_42PinConversion\Project Outputs for Junction Bo 42Pin Conv\Pick Place for PCB1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       22/11/21
+Time:       15:10
+Revision:   e901ec71f2e6bc17068f9d6c446717f63796d7d5
+Variant:    No variations
+Units used: mil
+
+Designator Comment            Layer    Footprint                     Center-X(mil) Center-Y(mil) Rotation Description                                                 
+R11        Res3               TopLayer J1-0603                       2319.000      973.000       0        Resistor                                                    
+CN3        0039299183         TopLayer 0039299183                    332.500       1386.200      180      "Connector Header Through Hole 18 position 0.165" (4.20mm)" 
+CN1        0039299183         TopLayer 0039299183                    3529.500      1410.000      180      "Connector Header Through Hole 18 position 0.165" (4.20mm)" 
+R3         10k                TopLayer R0603N                        3062.000      2003.000      270      "RES SMD 1/10W 0603 0.1%"                                   
+R15        AC07000001502JAC00 TopLayer AC07000001502JAC00            1375.900      2173.000      180      ""                                                          
+R18        AC07000001502JAC00 TopLayer AC07000001502JAC00            1376.500      1488.000      180      ""                                                          
+R14        AC07000001502JAC00 TopLayer AC07000001502JAC00            1376.500      2405.000      180      ""                                                          
+R16        AC07000001502JAC00 TopLayer AC07000001502JAC00            1374.500      1940.000      180      ""                                                          
+R17        AC07000001502JAC00 TopLayer AC07000001502JAC00            1376.500      1714.000      180      ""                                                          
+R13        AC07000001502JAC00 TopLayer AC07000001502JAC00            1374.500      2632.000      180      ""                                                          
+C12        0.012uF            TopLayer C0805K                        2989.000      948.315       90       "CAP CER 10% 0805"                                          
+R12        10k                TopLayer R0603N                        3064.000      944.000       270      "RES SMD 1/10W 0603 0.1%"                                   
+U6         FOD817DSD          TopLayer 4-SMD_GullWing                2722.000      960.000       90       "OPTOISOLATOR 5KV TRANSISTOR 4SMD"                          
+C11        100nF              TopLayer C0603N                        2419.000      940.000       270      "CAP CER 10% 0603"                                          
+R10        10k                TopLayer R0603N                        3065.000      1200.000      270      "RES SMD 1/10W 0603 0.1%"                                   
+C10        0.012uF            TopLayer C0805K                        2990.000      1205.315      90       "CAP CER 10% 0805"                                          
+R9         10k                TopLayer R0603N                        2323.000      1231.000      180      "RES SMD 1/10W 0603 1%"                                     
+U5         FOD817DSD          TopLayer 4-SMD_GullWing                2723.000      1217.000      90       "OPTOISOLATOR 5KV TRANSISTOR 4SMD"                          
+C9         100nF              TopLayer C0603N                        2420.000      1200.000      270      "CAP CER 10% 0603"                                          
+R4         10k                TopLayer R0603N                        3055.000      686.000       270      "RES SMD 1/10W 0603 0.1%"                                   
+C4         0.012uF            TopLayer C0805K                        2980.000      689.315       90       "CAP CER 10% 0805"                                          
+R2         10k                TopLayer R0603N                        2314.000      710.000       180      "RES SMD 1/10W 0603 1%"                                     
+U2         FOD817DSD          TopLayer 4-SMD_GullWing                2713.000      701.000       90       "OPTOISOLATOR 5KV TRANSISTOR 4SMD"                          
+C2         100nF              TopLayer C0603N                        2410.000      678.000       270      "CAP CER 10% 0603"                                          
+R8         10k                TopLayer R0603N                        3063.000      1470.000      270      "RES SMD 1/10W 0603 0.1%"                                   
+C8         0.012uF            TopLayer C0805K                        2988.000      1472.315      90       "CAP CER 10% 0805"                                          
+R7         10k                TopLayer R0603N                        2318.000      1489.000      180      "RES SMD 1/10W 0603 1%"                                     
+U4         FOD817DSD          TopLayer 4-SMD_GullWing                2721.000      1484.000      90       "OPTOISOLATOR 5KV TRANSISTOR 4SMD"                          
+C7         100nF              TopLayer C0603N                        2418.000      1458.000      270      "CAP CER 10% 0603"                                          
+R6         10k                TopLayer R0603N                        3064.000      1738.000      270      "RES SMD 1/10W 0603 0.1%"                                   
+C6         0.012uF            TopLayer C0805K                        2989.000      1738.315      90       "CAP CER 10% 0805"                                          
+R5         10k                TopLayer R0603N                        2320.000      1747.000      180      "RES SMD 1/10W 0603 1%"                                     
+U3         FOD817DSD          TopLayer 4-SMD_GullWing                2722.000      1750.000      90       "OPTOISOLATOR 5KV TRANSISTOR 4SMD"                          
+C5         100nF              TopLayer C0603N                        2419.000      1718.000      270      "CAP CER 10% 0603"                                          
+C3         0.012uF            TopLayer C0805K                        2987.000      2004.315      90       "CAP CER 10% 0805"                                          
+R1         10k                TopLayer R0603N                        2314.000      2018.000      180      "RES SMD 1/10W 0603 1%"                                     
+U1         FOD817DSD          TopLayer 4-SMD_GullWing                2720.000      2016.000      90       "OPTOISOLATOR 5KV TRANSISTOR 4SMD"                          
+C1         100nF              TopLayer C0603N                        2417.000      1987.000      270      "CAP CER 10% 0603"                                          
+CN2        15-31-1036         TopLayer Molex_15-31-1036_0            2664.921      251.347       180      ""                                                          
+D1         S1A-13-F           TopLayer Micro_Commercial_DO-214AC_MFG 1885.000      257.000       180      ""                                                          
+K1         DS2Y-S-DC24V       TopLayer Panasonic_DS2Y-S-DC24V_0      1880.000      807.000       90       ""                                                          
+D2         S1A-13-F           TopLayer Micro_Commercial_DO-214AC_MFG 1392.500      252.000       180      ""                                                          
+K2         DS2Y-S-DC24V       TopLayer Panasonic_DS2Y-S-DC24V_0      1391.876      804.480       90       ""                                                          
+D3         S1A-13-F           TopLayer Micro_Commercial_DO-214AC_MFG 900.000       252.000       180      ""                                                          
+K3         DS2Y-S-DC24V       TopLayer Panasonic_DS2Y-S-DC24V_0      903.750       807.000       90       ""                                                          
